@@ -1,0 +1,10 @@
+/* Set the background color for the entire page */
+body {
+  background-color: teal;
+}
+
+/* Set the color for all paragraph text */
+p {
+  color: #4d004d;
+    text-decoration: underline;
+}
